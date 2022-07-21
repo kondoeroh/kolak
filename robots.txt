@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://kondoeroh.github.io/syair/sitemap.xml
+Sitemap: https://kondoeroh.github.io/kolak/sitemap.xml
